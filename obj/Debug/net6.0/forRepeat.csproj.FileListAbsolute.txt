@@ -1,0 +1,15 @@
+C:\CSharp\forRepeat\bin\Debug\net6.0\forRepeat.exe
+C:\CSharp\forRepeat\bin\Debug\net6.0\forRepeat.deps.json
+C:\CSharp\forRepeat\bin\Debug\net6.0\forRepeat.runtimeconfig.json
+C:\CSharp\forRepeat\bin\Debug\net6.0\forRepeat.dll
+C:\CSharp\forRepeat\bin\Debug\net6.0\forRepeat.pdb
+C:\CSharp\forRepeat\obj\Debug\net6.0\forRepeat.csproj.AssemblyReference.cache
+C:\CSharp\forRepeat\obj\Debug\net6.0\forRepeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\forRepeat\obj\Debug\net6.0\forRepeat.AssemblyInfoInputs.cache
+C:\CSharp\forRepeat\obj\Debug\net6.0\forRepeat.AssemblyInfo.cs
+C:\CSharp\forRepeat\obj\Debug\net6.0\forRepeat.csproj.CoreCompileInputs.cache
+C:\CSharp\forRepeat\obj\Debug\net6.0\forRepeat.dll
+C:\CSharp\forRepeat\obj\Debug\net6.0\refint\forRepeat.dll
+C:\CSharp\forRepeat\obj\Debug\net6.0\forRepeat.pdb
+C:\CSharp\forRepeat\obj\Debug\net6.0\forRepeat.genruntimeconfig.cache
+C:\CSharp\forRepeat\obj\Debug\net6.0\ref\forRepeat.dll
